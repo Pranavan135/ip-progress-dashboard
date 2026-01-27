@@ -1,9 +1,9 @@
 Task Name,Task Type,Is Optional,Due Date,Week Number
 Week3,Weekly,FALSE,1/30/2026 23:59,3
-Week4,Weekly,FALSE,2/7/2025 23:59,4
-Week5,Weekly,FALSE,2/14/2025 23:59,5
-Week6,Weekly,FALSE,2/21/2025 23:59,6
-Week7,Weekly,FALSE,2/28/2025 23:59,7
+Week4,Weekly,FALSE,2/6/2026 23:59,4
+Week5,Weekly,FALSE,2/13/2026 23:59,5
+Week6,Weekly,FALSE,2/20/2026 23:59,6
+Week7,Weekly,FALSE,3/6/2026 23:59,7
 Level-0,Increment,FALSE,1/30/2026 23:59,3
 Level-1,Increment,FALSE,1/30/2026 23:59,3
 Level-2,Increment,FALSE,1/30/2026 23:59,3
@@ -13,48 +13,48 @@ A-TextUiTesting,Increment,FALSE,1/30/2026 23:59,3
 Level-5,Increment,FALSE,1/30/2026 23:59,3
 Level-6,Increment,FALSE,1/30/2026 23:59,3
 A-Enums,Increment,TRUE,1/30/2026 23:59,3
-Level-7,Increment,FALSE,2/7/2025 23:59,4
-Level-8,Increment,FALSE,2/7/2025 23:59,4
-A-MoreOOP,Increment,FALSE,2/7/2025 23:59,4
-A-Packages,Increment,FALSE,2/7/2025 23:59,4
-A-Gradle,Increment,FALSE,2/7/2025 23:59,4
-A-JUnit,Increment,FALSE,2/7/2025 23:59,4
-A-Jar,Increment,FALSE,2/7/2025 23:59,4
-A-JavaDoc,Increment,FALSE,2/7/2025 23:59,4
-A-CodingStandard,Increment,FALSE,2/7/2025 23:59,4
-Level-9,Increment,FALSE,2/7/2025 23:59,4
-A-Cheer,Increment,FALSE,2/7/2025 23:59,4
-A-CheckStyle,Increment,TRUE,2/14/2025 23:59,5
-Level-10,Increment,FALSE,2/14/2025 23:59,5
-A-Varargs,Increment,TRUE,2/14/2025 23:59,5
-A-UnitTesting,Increment,FALSE,2/14/2025 23:59,5
-A-FullCommitMessage,Increment,TRUE,2/21/2025 23:59,6
-A-Assertions,Increment,FALSE,2/21/2025 23:59,6
-A-CodeQuality,Increment,FALSE,2/21/2025 23:59,6
-A-Streams,Increment,TRUE,2/21/2025 23:59,6
-A-CI,Increment,TRUE,2/21/2025 23:59,6
-BCD-Extension,Increment,TRUE,2/21/2025 23:59,6
-A-BetterGui,Increment,TRUE,2/28/2025 23:59,7
-A-Personality,Increment,TRUE,2/28/2025 23:59,7
-A-MoreTesting,Increment,TRUE,2/28/2025 23:59,7
-A-MoreErrorHandling,Increment,TRUE,2/28/2025 23:59,7
-A-UserGuide,Increment,FALSE,2/28/2025 23:59,7
-A-AiAssisted,Increment,TRUE,2/28/2025 23:59,7
-A-Week7-Mysterious,Increment,FALSE,2/28/2025 23:59,7
-Forking,Admin,FALSE,2/4/2025 23:59,3
-Tracker,Admin,FALSE,2/4/2025 23:59,3
-PR Creation,Admin,FALSE,2/7/2025 23:59,4
-branch-Level-7,Admin,FALSE,2/7/2025 23:59,4
-branch-Level-8,Admin,FALSE,2/7/2025 23:59,4
-branch-A-JavaDoc,Admin,FALSE,2/7/2025 23:59,4
-branch-A-CodingStandard,Admin,FALSE,2/7/2025 23:59,4
-branch-Level-9,Admin,FALSE,2/7/2025 23:59,4
-Git Standard,Admin,FALSE,2/7/2025 23:59,4
-Use GFMD,Admin,FALSE,2/14/2025 23:59,5
-branch-Level-10,Admin,FALSE,2/14/2025 23:59,5
-branch-A-Assertions,Admin,FALSE,2/21/2025 23:59,6
-branch-A-CodeQuality,Admin,FALSE,2/21/2025 23:59,6
-Merging PRs,Admin,FALSE,2/21/2025 23:59,6
-Published UG,Admin,FALSE,2/28/2025 23:59,7
-Ui.png,Admin,FALSE,2/28/2025 23:59,7
-JAR released,Admin,FALSE,2/28/2025 23:59,7
+Level-7,Increment,FALSE,2/6/2026 23:59,4
+Level-8,Increment,FALSE,2/6/2026 23:59,4
+A-MoreOOP,Increment,FALSE,2/6/2026 23:59,4
+A-Packages,Increment,FALSE,2/6/2026 23:59,4
+A-Gradle,Increment,FALSE,2/6/2026 23:59,4
+A-JUnit,Increment,FALSE,2/6/2026 23:59,4
+A-Jar,Increment,FALSE,2/6/2026 23:59,4
+A-JavaDoc,Increment,FALSE,2/6/2026 23:59,4
+A-CodingStandard,Increment,FALSE,2/6/2026 23:59,4
+Level-9,Increment,FALSE,2/6/2026 23:59,4
+A-Cheer,Increment,FALSE,2/6/2026 23:59,4
+A-CheckStyle,Increment,TRUE,2/13/2026 23:59,5
+Level-10,Increment,FALSE,2/13/2026 23:59,5
+A-Varargs,Increment,TRUE,2/13/2026 23:59,5
+A-UnitTesting,Increment,FALSE,2/13/2026 23:59,5
+A-FullCommitMessage,Increment,TRUE,2/20/2026 23:59,6
+A-Assertions,Increment,FALSE,2/20/2026 23:59,6
+A-CodeQuality,Increment,FALSE,2/20/2026 23:59,6
+A-Streams,Increment,TRUE,2/20/2026 23:59,6
+A-CI,Increment,TRUE,2/20/2026 23:59,6
+BCD-Extension,Increment,TRUE,2/20/2026 23:59,6
+A-BetterGui,Increment,TRUE,3/6/2026 23:59,7
+A-Personality,Increment,TRUE,3/6/2026 23:59,7
+A-MoreTesting,Increment,TRUE,3/6/2026 23:59,7
+A-MoreErrorHandling,Increment,TRUE,3/6/2026 23:59,7
+A-UserGuide,Increment,FALSE,3/6/2026 23:59,7
+A-AiAssisted,Increment,TRUE,3/6/2026 23:59,7
+A-Week7-Mysterious,Increment,FALSE,3/6/2026 23:59,7
+Forking,Admin,FALSE,1/30/2026 23:59,3
+Tracker,Admin,FALSE,1/30/2026 23:59,3
+PR Creation,Admin,FALSE,2/6/2026 23:59,4
+branch-Level-7,Admin,FALSE,2/6/2026 23:59,4
+branch-Level-8,Admin,FALSE,2/6/2026 23:59,4
+branch-A-JavaDoc,Admin,FALSE,2/6/2026 23:59,4
+branch-A-CodingStandard,Admin,FALSE,2/6/2026 23:59,4
+branch-Level-9,Admin,FALSE,2/6/2026 23:59,4
+Git Standard,Admin,FALSE,2/6/2026 23:59,4
+Use GFMD,Admin,FALSE,2/13/2026 23:59,5
+branch-Level-10,Admin,FALSE,2/13/2026 23:59,5
+branch-A-Assertions,Admin,FALSE,2/20/2026 23:59,6
+branch-A-CodeQuality,Admin,FALSE,2/20/2026 23:59,6
+Merging PRs,Admin,FALSE,2/20/2026 23:59,6
+Published UG,Admin,FALSE,3/6/2026 23:59,7
+Ui.png,Admin,FALSE,3/6/2026 23:59,7
+JAR released,Admin,FALSE,3/6/2026 23:59,7
