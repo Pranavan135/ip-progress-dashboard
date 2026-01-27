@@ -15,7 +15,7 @@
   * <span class="badge bg-danger">!~~ABC~~</span> : item overdue, not done yet.
   * <span class="badge bg-dark">!~~ABC~~</span> : item due soon, not done yet.
   * <span class="badge bg-secondary">!~~ABC~~</span> : optional item due soon, not done yet.
-* If you have queries about the data shown in this page, please email `pranat@nus.edu.sg` and `zikun@nus.edu.sg`.
+* If you have queries about the data shown in this page, please email `pranat@nus.edu.sg` and `nnnthao@nus.edu.sg`.
 * This dashboard is **updated {{ "every 2-3 days" if tic4002 else "daily" }}**.
 * **Troubleshooting:**
 
