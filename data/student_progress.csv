@@ -1,7 +1,26 @@
-Full Name,Student ID,Week3,Week4,Week5,Week6,Week7,Level-0,Level-1,Level-2,Level-3,Level-4,A-TextUiTesting,Level-5,Level-6,A-Enums,Level-7,Level-8,A-MoreOOP,A-Packages,A-Gradle,A-JUnit,A-Jar,A-JavaDoc,A-CodingStandard,Level-9,A-Cheer,A-CheckStyle,Level-10,A-Varargs,A-FullCommitMessage,A-UnitTesting,A-Assertions,A-CodeQuality,A-Streams,A-CI,BCD-Extension,A-BetterGui,A-Personality,A-MoreTesting,A-MoreErrorHandling,A-UserGuide,A-AiAssisted,Forking,Tracker,PR Creation,branch-Level-7,branch-Level-8,branch-A-JavaDoc,branch-A-CodingStandard,branch-Level-9,Git Standard,Use GFMD,branch-Level-10,branch-A-Assertions,branch-A-CodeQuality,Merging PRs,Published UG,Ui.png,JAR released
-ANDY CHONG WEIKANG,A---9252E,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-DAVIN CHUA JING HAN,A---4351N,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-LOH YEE KAI,A---8898B,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-TAN CHENG WEN RACHEL,A---8120U,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-TAN LING JEN,A---3419H,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-ZHONG JINYANG,A---5574X,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+﻿Full Name,Student ID,Week3,Level-0,Level-1,Level-2,Level-3,Level-4,A-TextUiTesting,Level-5,Level-6,A-Enums
+ASHLEY J WILLIAMS,A---6949H,0,0,0,0,0,0,0,0,0,0
+CAO ZHERAN,A---7451X,0,0,0,0,0,0,0,0,0,0
+CHERAN LEE YEN-NING,A---8019B,0,0,0,0,0,0,0,0,0,0
+"CHONG SHAO IAN, ELLIOT",A---4487R,0,0,0,0,0,0,0,0,0,0
+DU HAOWEN,A---1664J,0,0,0,0,0,0,0,0,0,0
+EWE ZI HENG,A---3237N,0,0,0,0,0,0,0,0,0,0
+GOH WEI JIE,A---2673B,0,0,0,0,0,0,0,0,0,0
+GUPTA MANYA,A---9673W,0,0,0,0,0,0,0,0,0,0
+JUSTIN ADRIAN HALIM,A---1615E,0,0,0,0,0,0,0,0,0,0
+KOK BO WEN,A---3552A,0,0,0,0,0,0,0,0,0,0
+LI SHANXIN,A---8349N,0,0,0,0,0,0,0,0,0,0
+LING WAN LOONG,A---5897A,0,0,0,0,0,0,0,0,0,0
+LIU ZHENGJUN,A---8951R,0,0,0,0,0,0,0,0,0,0
+NADIA RAHMAN,A---8533Y,0,0,0,0,0,0,0,0,0,0
+NIE XIMING,A---8966E,0,0,0,0,0,0,0,0,0,0
+PHUA ZAI HAN ZANE,A---7144M,0,0,0,0,0,0,0,0,0,0
+POON WEI XUAN,A---2823H,0,0,0,0,0,0,0,0,0,0
+PRANAV PUDI,A---9618X,0,0,0,0,0,0,0,0,0,0
+PRITHIKASHRI KANNAN,A---7546U,0,0,0,0,0,0,0,0,0,0
+SHANMUGAM INDIRAPRATIBHA,A---5504R,0,0,0,0,0,0,0,0,0,0
+SUPASI CHAQORN,A---2267J,0,0,0,0,0,0,0,0,0,0
+TSENG ER CHEN,A---3155E,0,0,0,0,0,0,0,0,0,0
+VINCENT TIMOTHY MARTIN SIREGAR,A---9011R,0,0,0,0,0,0,0,0,0,0
+VORA YUGAM JINESH,A---6711E,0,0,0,0,0,0,0,0,0,0
+YEOW CHUN SIANG,A---8496R,0,0,0,0,0,0,0,0,0,0
