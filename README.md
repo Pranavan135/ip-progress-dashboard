@@ -19,7 +19,7 @@ A tool that:
 3. Push to master branch:
    - GitHub Actions will automatically build and deploy
    - Dashboard updates at: [https://nus-cs2103de-ay2526s2.github.io/ip-progress-dashboard/]
-   (https://nus-cs2103de-ay2425s2.github.io/ip-progress-dashboard/)
+   (https://nus-cs2103de-ay2526s2.github.io/ip-progress-dashboard/)
    - Current timestamp will be shown on the website
 
 ## Data Files
