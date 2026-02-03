@@ -8,7 +8,6 @@ def read_csv(file_name):
         reader = csv.DictReader(f)
         reader.fieldnames = [h.strip() for h in reader.fieldnames]
 
-
         for row in reader:
             name = row.get("Name")
             repo_url = row.get("Repository's Location")
@@ -17,8 +16,6 @@ def read_csv(file_name):
                 print("Skipping invalid row:", row)
                 continue
 
-
-            # print(name, repo_url)
             users.append((name, repo_url))
 
     return users
@@ -31,10 +28,7 @@ if __name__ == "__main__":
         token = f.read()
     headers = df.columns.tolist()
 
-
     for i in range(len(users)):
-        # print(users[i])
-        # print(users[i][1][:-4])
         tags = tf.get_all_tags_from_url(users[i][1][:-4], token)
 
         for tag in tags:
@@ -43,4 +37,3 @@ if __name__ == "__main__":
 
     df.to_csv("data/student_progress.csv", index=False)
     print(users)
-
