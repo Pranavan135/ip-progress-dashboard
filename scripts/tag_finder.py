@@ -48,8 +48,6 @@ def get_all_tags_from_url(repo_url, token=None):
 
     return tags
 
-import requests
-
 def check_auth(token):
     headers = {
         "Accept": "application/vnd.github+json",
