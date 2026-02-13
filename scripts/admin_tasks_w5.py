@@ -88,7 +88,7 @@ if __name__ == "__main__":
             if branch_exists(users[i][1], branches[j]):
                 df.loc[df["Full Name"] == users[i][0], branches[j]] = '1'
 
-        if gfmd.fork_pr_has_valid_gfmd(users[i][1], token):
+        if gfmd.fork_pr_has_valid_gfmd_in_body_or_comments(users[i][1], token):
             print(users[i][0], "has a valid PR")
             df.loc[df["Full Name"] == users[i][0], 'Use GFMD'] = '1'
         else:
