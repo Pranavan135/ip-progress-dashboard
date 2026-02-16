@@ -1,9 +1,6 @@
 import subprocess
 import write_to_csv as wv
-import tag_finder as tf
 import pandas as pd
-import requests
-import  gfmd_checker as gfmd
 
 def branch_exists(repo_url: str, branch: str) -> bool:
     try:
@@ -87,12 +84,6 @@ if __name__ == "__main__":
         for j in range(len(branches)):
             if branch_exists(users[i][1], branches[j]):
                 df.loc[df["Full Name"] == users[i][0], branches[j]] = '1'
-
-        if gfmd.fork_pr_has_valid_gfmd_in_body_or_comments(users[i][1], token):
-            print(users[i][0], "has a valid PR")
-            df.loc[df["Full Name"] == users[i][0], 'Use GFMD'] = '1'
-        else:
-            print(users[i][0], "doesn't have a valid PR")
 
 
     df.to_csv("data/student_progress.csv", index=False)
