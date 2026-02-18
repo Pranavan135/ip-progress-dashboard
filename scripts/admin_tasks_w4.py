@@ -1,8 +1,6 @@
 import subprocess
 import write_to_csv as wv
-import tag_finder as tf
 import pandas as pd
-import requests
 
 def branch_exists(repo_url: str, branch: str) -> bool:
     try:
