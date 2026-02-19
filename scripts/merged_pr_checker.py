@@ -27,6 +27,7 @@ def normalize_repo(line: str) -> str | None:
 
 def has_merged_pr(owner_repo: str, token = TOKEN):
     q = f"repo:{owner_repo} is:pr is:merged"
+    time.sleep(2)
     try:
         r = requests.get(
             f"{API}/search/issues",
@@ -39,10 +40,12 @@ def has_merged_pr(owner_repo: str, token = TOKEN):
             timeout=15,
         )
         if r.status_code in (404, 403):
+            print(f"ERROR {r.status_code} for {owner_repo}")
             return None
         r.raise_for_status()
         return r.json().get("total_count", 0) > 0
     except Exception:
+        print(f"ERROR for {owner_repo}")
         return None
 
 def main():
@@ -64,4 +67,4 @@ def main():
             time.sleep(0.2)
 
 if __name__ == "__main__":
-    main()
+    print(has_merged_pr(normalize_repo("https://github.com/YeowChunSiang/ip.git")))
