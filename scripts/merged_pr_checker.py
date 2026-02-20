@@ -67,4 +67,4 @@ def main():
             time.sleep(0.2)
 
 if __name__ == "__main__":
-    print(has_merged_pr(normalize_repo("https://github.com/YeowChunSiang/ip.git")))
+    main()
