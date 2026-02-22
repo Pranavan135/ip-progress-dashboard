@@ -86,7 +86,6 @@ if __name__ == "__main__":
             if branch_exists(users[i][1], branches[j]):
                 df.loc[df["Full Name"] == users[i][0], branches[j]] = '1'
 
-            # print(mpc.has_merged_pr(mpc.normalize_repo(users[i][1]), token=token))
             if mpc.has_merged_pr(mpc.normalize_repo(users[i][1]), token=token):
                 df.loc[df["Full Name"] == users[i][0], "Merging PRs"] = '1'
 
